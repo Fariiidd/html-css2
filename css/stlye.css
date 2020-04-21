@@ -6,10 +6,18 @@ body {
     font-family: 'Open Sans';
     background-image: url('../img/emilia-home.jpg');
     background-position: right;
+    background-repeat: no-repeat;
+    background-size: 1500px;
+
+}
+
+.Titulo-principal{
+    font-family: 'Raleway';
+    font-size: 30px;
+    background-color: rgba(255, 255, 255, 0.5);
 }
 
 h2 {
     font-family: 'Work Sans';
-    width: 700;
-    height: 400;
+    font-size: 20;
 }
