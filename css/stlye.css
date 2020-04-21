@@ -1,0 +1,15 @@
+.iconos {
+    text-align: left;
+}
+
+body {
+    font-family: 'Open Sans';
+    background-image: url('../img/emilia-home.jpg');
+    background-position: right;
+}
+
+h2 {
+    font-family: 'Work Sans';
+    width: 700;
+    height: 400;
+}
