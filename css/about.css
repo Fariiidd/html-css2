@@ -1,3 +1,21 @@
-.Texto-paginas {
-    background-position-x: right;
+body {
+    background-image: url(../img/emilia-about.jpg);
+    background-position: right;
+    background-repeat: no-repeat;
+    background-size: 1000px 700px;
+    background-position-x: 325px;
+    background-position-y: 0px;
+}
+
+header {
+    height: 50px;
+    background: rgba(255, 255, 255, 0.5);
+}
+
+.contenedor {
+    background-position: right;
+}
+
+* {
+    box-sizing: border-box;
 }

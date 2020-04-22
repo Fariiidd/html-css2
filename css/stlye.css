@@ -7,7 +7,9 @@ body {
     background-image: url('../img/emilia-home.jpg');
     background-position: right;
     background-repeat: no-repeat;
-    background-size: 1050px;
+    background-size: 1100px 700px;
+    background-position-x: 400px;
+    background-position-y: 5px;
 }
 
 .Titulo-principal {
