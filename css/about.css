@@ -1,3 +1,7 @@
+* {
+    box-sizing: content-box;
+}
+
 body {
     background-image: url(../img/emilia-about.jpg);
     background-position: right;
@@ -5,17 +9,21 @@ body {
     background-size: 1000px 700px;
     background-position-x: 325px;
     background-position-y: 0px;
+    box-sizing: content-box;
 }
 
-header {
-    height: 50px;
-    background: rgba(255, 255, 255, 0.5);
+#enlaces-about {
+    font-family: 'Raleway';
+    margin-top: 6vh;
+    text-align: right;
+    padding-top: 3vh;
+    background-color: rgba(255, 255, 255, 0.5);
+    height: 9vh;
 }
 
-.contenedor {
-    background-position: right;
+#iconos {
+    float: right;
+    margin-top: 3vh;
 }
 
-* {
-    box-sizing: border-box;
-}
+#titulo {}
